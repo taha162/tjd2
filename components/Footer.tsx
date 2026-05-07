@@ -20,7 +20,7 @@ export function Footer() {
             viewport={{ once: true }}
             className="text-center md:text-left"
           >
-            <span className="text-lg font-bold gradient-text">TJM</span>
+            <span className="text-lg font-bold gradient-text">TJD</span>
             <p className="text-sm text-foreground-muted mt-1">
               &copy; {new Date().getFullYear()} {personalInfo.name}. All rights reserved.
             </p>
