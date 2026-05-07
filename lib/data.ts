@@ -1,10 +1,10 @@
 import { Experience, Education, Certificate, Achievement, Skill, Project, GalleryImage } from "@/types";
 
 export const personalInfo = {
-  name: "Taha Jasim Mohammed Syala",
-  title: "Mechatronics Engineer",
+  name: "Taha Jasim Mohammed",
+  title: "Mechatronics Engineer Student",
   email: "tahajasim.info@gmail.com",
-  phone: "07703947744",
+  phone: null,
   location: "Mosul, Iraq",
   linkedin: "in/tjd162",
   github: "github.com/taha162",
