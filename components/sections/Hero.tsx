@@ -82,7 +82,7 @@ export function Hero() {
         >
           <span className="text-foreground">Taha Jasim</span>
           <br />
-          <span className="gradient-text">Mohammed Syala</span>
+          <span className="gradient-text">Mohammed</span>
         </motion.h1>
 
         {/* Title */}
@@ -92,7 +92,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.6, ease: [0.23, 1, 0.32, 1] }}
           className="text-display-3 text-foreground-muted mb-6"
         >
-          Mechatronics Engineer
+          Mechatronics Engineer Student
         </motion.p>
 
         {/* Summary */}
@@ -125,7 +125,7 @@ export function Hero() {
             size="lg"
             icon={<Mail className="w-5 h-5" />}
           >
-            Hire Me
+            Contact
           </Button>
         </motion.div>
 
