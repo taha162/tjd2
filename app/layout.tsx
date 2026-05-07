@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Taha Jasim Mohammed Syala | Mechatronics Engineer & Designer",
+  title: "Taha Jasim Mohammed | Mechatronics Engineer & Designer",
   description:
     "Portfolio of Taha Jasim Mohammed Syala - Mechatronics Engineering student, Graphic Designer, and UI/UX Designer based in Mosul, Iraq.",
   keywords: [
@@ -24,16 +24,16 @@ export const metadata: Metadata = {
     "Next.js",
     "React",
   ],
-  authors: [{ name: "Taha Jasim Mohammed Syala" }],
+  authors: [{ name: "Taha Jasim Mohammed" }],
   openGraph: {
-    title: "Taha Jasim Mohammed Syala | Portfolio",
+    title: "Taha Jasim Mohammed | Portfolio",
     description: "Mechatronics Engineer & Creative Designer",
     type: "website",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Taha Jasim Mohammed Syala | Portfolio",
+    title: "Taha Jasim Mohammed | Portfolio",
     description: "Mechatronics Engineer & Creative Designer",
   },
   robots: {
