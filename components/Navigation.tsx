@@ -50,7 +50,7 @@ export function Navigation() {
               className="text-lg font-bold tracking-tight"
               whileHover={{ scale: 1.02 }}
             >
-              <span className="gradient-text">TJM</span>
+              <span className="gradient-text">TJD</span>
               <span className="text-foreground-muted text-sm ml-2 font-normal hidden sm:inline">
                 Portfolio
               </span>
