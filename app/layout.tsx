@@ -11,7 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Taha Jasim Mohammed | Mechatronics Engineer & Designer",
   description:
-    "Portfolio of Taha Jasim Mohammed Syala - Mechatronics Engineering student, Graphic Designer, and UI/UX Designer based in Mosul, Iraq.",
+    "Portfolio of Taha Jasim Mohammed - Mechatronics Engineering student, Graphic Designer, and UI/UX Designer based in Mosul, Iraq.",
   keywords: [
     "Mechatronics Engineer",
     "Graphic Designer",
