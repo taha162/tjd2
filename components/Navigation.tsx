@@ -52,7 +52,7 @@ export function Navigation() {
             >
               <span className="gradient-text">TJD</span>
               <span className="text-foreground-muted text-sm ml-2 font-normal hidden sm:inline">
-                Portfolio
+                Website
               </span>
             </motion.a>
 
